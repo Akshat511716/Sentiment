@@ -1,6 +1,6 @@
 from textblob import TextBlob
 
-x = input("Hi! I recently gave a public session and found that were one of the attendees! How was the session for you? ")
+x = input("Hi! I recently made a product, Please provide the feedback of my product. How was it for you? ")
 y = TextBlob(x)
 z = y.sentiment.polarity
 
