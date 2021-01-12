@@ -14,10 +14,10 @@ if z<0:
     elif z1==0:
         print("Great! Awesome feedback")
     elif z1>0 and z1<=1:
-        print("Great! Thank you. We can connect over here!")
+        print("Great! Thank you!")
 
 elif z==0:
-    print("Oh! Thank you for attending!")
+    print("Oh! Thank you for your time!")
 
 elif z>0 and z<=1:
-    print("Great! Thank you so much for your valuable words!")
+    print("Great! Thank you so much for your valuable feedback!")
